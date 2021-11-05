@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pageres": "^6.2.3",
+    "phantomjs": "^1.9.20"
+  }
+}
