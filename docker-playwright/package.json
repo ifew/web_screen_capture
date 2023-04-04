@@ -1,0 +1,13 @@
+{
+  "name": "docker-playwright",
+  "version": "1.0.0",
+  "description": "docker run -it --rm --ipc=host mcr.microsoft.com/playwright:v1.32.0-focal /bin/bash",
+  "main": "test.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
