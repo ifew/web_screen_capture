@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "pageres": "^7.1.0",
+        "phantomjs": "^1.9.19",
+        "puppeteer": "^19.7.4"
+    }
+}
